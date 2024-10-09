@@ -14,7 +14,7 @@ function WordCounter() {
 
   return (
     <div className="maincontainer">
-      <h1>Word Counter</h1>
+      <h1>Neymar Word Counter</h1>
       <input
         onChange={handleChange}
         type="text"
